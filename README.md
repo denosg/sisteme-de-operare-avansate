@@ -29,3 +29,6 @@ Aplicații
 28. Scrieți un script PowerShell care să descarce conținutul unei pagini web și să îl salveze într-un fișier local.
 29. Scrieți un script PowerShell care să afle adresa IP publică a computerului folosind o solicitare web.
 30. Scrieți un script PowerShell care să detecteze toate dispozitivele conectate la rețeaua locală și să afișeze adresele lor IP și MAC.
+
+LINUX:
+Implementați problema producător-consumator folosind memorie partajată și semafoare. Se da un buffer circular de dimensiune 5. Producâtorul introduce elemente in buffer, iar consumatorul le extrage. Sincronizarea trebuie să asigure ca producātorul nu adaugă date intr-un buffer plin și consumatorul nu incearcă să citească dintr-un buffer gol.
