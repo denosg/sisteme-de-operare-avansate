@@ -1,0 +1,8 @@
+gcc -o producer producer.c
+gcc -o consumer consumer.c
+
+# Într-un terminal:
+./producer
+
+# În alt terminal:
+./consumer
